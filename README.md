@@ -1,2 +1,2 @@
-## 3-js-sort-methods
-JS Selection & Insertion Sort
+## Sort-Methods in JavaScript
+JavaScript Selection & Insertion Sort
