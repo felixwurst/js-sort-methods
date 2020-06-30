@@ -1,2 +1,2 @@
-## Sort-Methods in JavaScript
+# Sort-Methods in JavaScript
 JavaScript Selection & Insertion Sort
