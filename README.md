@@ -1,4 +1,4 @@
-# Sort-Methods in JavaScript
+# Sort Methods in JavaScript
 
 ### Exercise:
 
